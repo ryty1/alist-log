@@ -1,0 +1,17 @@
+<svg width="600" height="50.00000000000001" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="52" width="602" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="108.109606" x2="816.501543" y1="108.109606" x1="817.501546" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="40" id="svg_5" y="39.000042" x="54.561772" stroke-width="0" fill="#619E73">TrollStore2</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Georgia, Times, 'Times New Roman', serif" font-size="40" id="svg_6" y="27.109395" x="387.50026" stroke-width="0" fill="#8B4D4B"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Oswald, sans-serif" font-size="38" id="svg_7" y="38.00004" x="301.045988" stroke-width="0" fill="#426373">安装视频教程</text>
+ </g>
+</svg>
