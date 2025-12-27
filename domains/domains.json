@@ -9,11 +9,11 @@
   { "domain": "svip5.dpdns.org", "registrationDate": "2024-12-13", "expirationDate": "2026-12-13", "system": "dpdns.org", "systemURL": "https://dash.domain.digitalplat.org" },
   { "domain": "svip6.dpdns.org", "registrationDate": "2024-12-13", "expirationDate": "2026-12-13", "system": "dpdns.org", "systemURL": "https://dash.domain.digitalplat.org" },
   { "domain": "vvi.hidns.vip", "registrationDate": "2025-12-12", "expirationDate": "2026-12-12", "system": "HiDNS", "systemURL": "https://www.hidoha.net/login" },
-  { "domain": "djabc.nyc.mn", "registrationDate": "2024-12-13", "expirationDate": "2099-99-99", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn" },
-  { "domain": "d1b.de5.net", "registrationDate": "2025-12-11", "expirationDate": "2099-99-99", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
-  { "domain": "d8b.de5.net", "registrationDate": "2024-12-13", "expirationDate": "2099-99-99", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
-  { "domain": "sk8.de5.net", "registrationDate": "2024-12-13", "expirationDate": "2099-99-99", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
-  { "domain": "de8.de5.net", "registrationDate": "2025-08-21", "expirationDate": "2099-99-99", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
-  { "domain": "de6.de5.net", "registrationDate": "2025-08-21", "expirationDate": "2099-99-99", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
-  { "domain": "svip5.de5.net", "registrationDate": "2025-08-21", "expirationDate": "2099-99-99", "system": "DNSHE", "systemURL": "https://my.dnshe.com" }
+  { "domain": "djabc.nyc.mn", "registrationDate": "2024-12-13", "expirationDate": "永久有效", "system": "nyc.mn", "systemURL": "https://dot.nyc.mn" },
+  { "domain": "d1b.de5.net", "registrationDate": "2025-12-11", "expirationDate": "永久有效", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
+  { "domain": "d8b.de5.net", "registrationDate": "2024-12-13", "expirationDate": "永久有效", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
+  { "domain": "sk8.de5.net", "registrationDate": "2024-12-13", "expirationDate": "永久有效", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
+  { "domain": "de8.de5.net", "registrationDate": "2025-08-21", "expirationDate": "永久有效", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
+  { "domain": "de6.de5.net", "registrationDate": "2025-08-21", "expirationDate": "永久有效", "system": "DNSHE", "systemURL": "https://my.dnshe.com" },
+  { "domain": "svip5.de5.net", "registrationDate": "2025-08-21", "expirationDate": "永久有效", "system": "DNSHE", "systemURL": "https://my.dnshe.com" }
 ]
